@@ -1101,6 +1101,7 @@ pre .javascript .function {
 }
 .site-meta {
   margin: 0;
+  background: url("https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1912339067,1224824205&fm=27&gp=0.jpg") no-repeat center center !important;
   text-align: center;
 }
 @media (max-width: 767px) {
@@ -1130,6 +1131,7 @@ pre .javascript .function {
   vertical-align: top;
   line-height: 36px;
   font-size: 20px;
+  color: #000;
   font-weight: normal;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
@@ -1823,7 +1825,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff34be;
+  background: #ff1feb;
 }
 .links-of-blogroll {
   font-size: 13px;
